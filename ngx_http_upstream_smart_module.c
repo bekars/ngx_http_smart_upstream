@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2007 Grzegorz Nosek
- * Work sponsored by Ezra Zygmuntowicz & EngineYard.com
+ * Work by bekars@gmail.com
  *
  * Based on nginx source (C) Igor Sysoev
  */
